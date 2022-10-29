@@ -1,4 +1,4 @@
-## Aloha, 我是[瞻妮芙](https://Jenniferwonder.github.io/#/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+## Aloha, 我是[瞻妮芙 Jennifer~](https://Jenniferwonder.github.io/#/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
 - 😄 英语专业 前端工程师 English Major Front-End Developer
 - 👩‍💻 经历 EXPERIENCE：英语老师从0开始学前端，让兴趣成为能力
