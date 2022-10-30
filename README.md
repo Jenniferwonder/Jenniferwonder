@@ -26,5 +26,7 @@
 ![](https://komarev.com/ghpvc/?username=Jenniferwonder&style=flat)
 
 <div align="left">
+  
 ### Show some ❤️ by starring some of my repositories!
+
 </div>
