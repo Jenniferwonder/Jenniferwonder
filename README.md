@@ -10,8 +10,7 @@
 - 👯 欢迎和我一起加入编程知识星球，共同进步。
 
 ## GitHub Stats ✨ 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Jenniferwonder&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenniferwonder&hide_title=true&hide_border=true&layout=compact&theme=radical" />
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jenniferwonder&theme=radical&hide_border=false)<br/>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Jenniferwonder&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenniferwonder&hide_title=true&hide_border=true&layout=compact&theme=radical" />
 
 ### I'm working on
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
