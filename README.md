@@ -10,7 +10,7 @@
 ## GitHub Stats ✨ 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Jenniferwonder&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenniferwonder&hide_title=true&hide_border=true&layout=compact&theme=radical" />
 
-### I'm working on
+## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
