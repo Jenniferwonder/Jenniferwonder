@@ -20,10 +20,11 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=Jenniferwonder&style=flat)
 
-<div align="center">
+<div align="left">
 
-### --------- Welcome to team up with me ❤️! ---------------
+### --------------- Welcome to team up with me ❤️! ---------------
 
 </div>
+  
+![](https://komarev.com/ghpvc/?username=Jenniferwonder&style=flat)
