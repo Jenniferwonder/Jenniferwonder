@@ -1,7 +1,7 @@
 ## Aloha, 我是[瞻妮芙 Jennifer~](https://Jenniferwonder.github.io/#/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
 - 😄 前端工程师 Front-End Developer | 英翻硕士 Master of English Translation and Interpretation 
-- :telescope: 在做项目 Currently working on：<a href="https://github.com/Jenniferwonder/FrontEnd-Resources-inUse.git" target="_blank">FrontEnd-Resources 精选前端资源库<中|英> </a> |<a href="https://github.com/Jenniferwonder/TechBlog" target="_blank">TechBlog 双语技术博客网站</a> | <a href="https://github.com/Jenniferwonder/Portfolio" target="_blank">Portfolio 个人网站</a> 
+- :telescope: 在做项目 Currently working on：<a href="https://github.com/Jenniferwonder/FrontEnd-Resources-inUse.git" target="_blank">FrontEnd-Resources 精选前端资源库<中|英> </a> | <a href="https://github.com/Jenniferwonder/TechBlog" target="_blank">TechBlog 双语技术博客网站</a> | <a href="https://github.com/Jenniferwonder/Portfolio" target="_blank">Portfolio 个人网站</a> 
 - :seedling: 博客 BLOG：<a href="https://juejin.cn/user/2925172853329501" target="_blank">掘金 @瞻妮芙</a>
 - 📸 视频 CHANNEL：<a href="https://space.bilibili.com/397961647?spm_id_from=333.1007.0.0" target="_blank">B站 @瞻妮芙</a>
 - 📫 邮箱 EMAIL：jenniferwonder_12@outlook.com
