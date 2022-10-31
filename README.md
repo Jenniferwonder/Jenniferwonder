@@ -22,8 +22,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Jenniferwonder&style=flat)
 
-<div align="left">
+<div align="center">
 
-### Welcome to team up with me❤️!
+### --------- Welcome to team up with me ❤️! ---------------
 
 </div>
