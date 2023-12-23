@@ -1,7 +1,7 @@
 ### Aloha, I'm Jennifer <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
 ### GitHub Stats ✨ 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Jenniferwonder&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenniferwonder&hide_title=true&hide_border=true&layout=compact&theme=radical" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Jenniferwonder&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenniferwonder&hide_title=true&hide_border=true&layout=compact&theme=radical" />
 
 ### Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
