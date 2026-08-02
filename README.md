@@ -1,6 +1,6 @@
 ### Hey There! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
-**I'm Jennifer** - I'm a front-end engineer, currently working to develop my full-stack skills in AI and back-end engineering!
+**I'm Jennifer** - a front-end engineer, former English teacher, currently working to develop my full-stack skills in AI and back-end engineering!
 
 ### Tech Stack
 
