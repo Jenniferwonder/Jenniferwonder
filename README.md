@@ -1,6 +1,6 @@
 ## 你好，我是 Jennifer ✨
 
-您好呀，我是一名前端工程师 + AI Agent 学习者 + 知识博主（公众号 [瞻思于学](https://mp.weixin.qq.com/s/mg0mI3uHPAENDrHtZqUuxA)）：
+您好呀，我是一名全栈开发工程师（偏前端） + AI Agent 实践者 + 知识博主（公众号 [瞻思于学](https://mp.weixin.qq.com/s/mg0mI3uHPAENDrHtZqUuxA)）：
 
 - 👨‍💻 前英语老师转码，深耕前端，正在拓展 Java 后端与 AI Agent 全栈能力
 - 🌱 公开学习，把「每天学什么 / 学完怎么沉淀」落成可复现的工作流与工程笔记
