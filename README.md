@@ -2,7 +2,7 @@
 
 您好呀，我是一名 AI 全栈开发工程师（偏前端） + AI Agent 实践者 + 知识博主（公众号 [瞻思于学](https://mp.weixin.qq.com/s/mg0mI3uHPAENDrHtZqUuxA)）：
 
-- 👨‍💻 前英语老师转码，深耕前端，正在拓展 Java 后端与 AI Agent 全栈能力
+- 👨‍💻 前英语老师转码，深耕前端，正在进一步拓展 AI Agent 全栈能力
 - 🌱 公开学习，把「每天学什么 / 学完怎么沉淀」落成可复现的工作流与工程笔记
 - 📚 持续写作 AI 价值最大化实践：日更飞轮、Agent Skill、学习产出方法论
 - 💻 爱做自己天天在用的工具，开源 [daily-flywheel](https://github.com/Jenniferwonder/daily-flywheel) | [ai-project-learning-skills](https://github.com/Jenniferwonder/ai-project-learning-skills) 等
